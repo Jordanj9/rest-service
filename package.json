@@ -12,8 +12,10 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^1.7.7",
+    "axios-cookiejar-support": "^5.0.3",
     "body-parser": "^1.20.3",
     "express": "^4.21.0",
-    "joi": "^17.13.3"
+    "joi": "^17.13.3",
+    "tough-cookie": "^5.0.0"
   }
 }
